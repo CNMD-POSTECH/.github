@@ -4,7 +4,7 @@ CNMD (Computational Nano-Materials Design Laboratory) GitHub Organization의 공
 최첨단 소재 연구와 머신러닝 기반 시뮬레이션 도구를 개발하고 있습니다.
 
 🌟 **주요 프로젝트**
-- [GB-CGCNN]
+- [GB-CGCNN](https://github.com/CNMD-POSTECH/GB-CGCNN):
 - [CIGNN](https://github.com/CNMD-POSTECH/CIGNN): Machine Learning Potential Model
 
 🌐 **링크**
