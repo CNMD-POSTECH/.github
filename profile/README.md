@@ -1,4 +1,4 @@
-![CNMD Banner Image](./cnmd_banner.png)
+![CNMD Banner Image](./Old_Logo_Background.png)
 
 <h2>✨ Welcome to CNMD!</h2>
 
