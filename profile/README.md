@@ -9,7 +9,7 @@ Computational Nano-Materials Design Laboratory (CNMD) GitHub Organization!
 
 <h2>👀 About CNMD:</h2>
 
-We are the **CNMD**, a research group in the Department of Materials Science and Engineering at **POSTECH**, located in Pohang, South Korea. 
+A research group in the Department of Materials Science and Engineering at **POSTECH**, located in Pohang, South Korea. 
 
 - **Location**   : Pohang, South Korea  
 - **University**: POSTECH (Pohang University of Science and Technology)  
