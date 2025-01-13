@@ -1,16 +1,46 @@
-# Welcome to CNMD
+![CNMD Banner Image](./cnmd_banner.png)
 
-CNMD (Computational Nano-Materials Design Laboratory) GitHub Organization의 공식 저장소입니다.  
-최첨단 소재 연구와 머신러닝 기반 시뮬레이션 도구를 개발하고 있습니다.
+<h2>✨ Welcome to CNMD!</h2>
 
-🌟 **주요 프로젝트**
-- [GB-CGCNN](https://github.com/CNMD-POSTECH/GB-CGCNN):
-- [CIGNN](https://github.com/CNMD-POSTECH/CIGNN): Machine Learning Potential Model
+Computational Nano-Materials Design Laboratory (CNMD) GitHub Organization!
 
-🌐 **링크**
-- [홈페이지](https://cnmd.postech.ac.kr/)
-- 문의: [donghwa96@postech.ac.kr](mailto:donghwa96@postech.ac.kr)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CNMD-POSTECH.visitor-badge)](https://github.com/CNMD-POSTECH) [![GitHub followers](https://img.shields.io/github/followers/CNMD-POSTECH.svg?style=social&label=Follow)](https://github.com/CNMD-POSTECH?tab=followers)
 
-📚 **목표**
-- 차세대 소재 디자인
-- 데이터 기반 연구 및 시뮬레이션 개발
+
+<h2>👀 About CNMD:</h2>
+
+We are the **CNMD**, a research group in the Department of Materials Science and Engineering at **POSTECH**, located in Pohang, South Korea. 
+
+- **Location**   : Pohang, South Korea  
+- **University**: POSTECH (Pohang University of Science and Technology)  
+- **Contact**   : [donghwa96@postech.ac.kr](mailto:donghwa96@postech.ac.kr)  
+- **Website**   : [https://cnmd.postech.ac.kr](https://cnmd.postech.ac.kr)  
+
+
+<h2>📚 Our Research Publications with Code</h2>
+
+- Eun Ho Kim, Jun Hyeong Gu, June Ho Lee, Seong Hun Kim, Jaeseon Kim, Hyo Gyeong Shin, Shin Hyun Kim, Donghwa Lee.  
+  Boosting–crystal graph convolutional neural network for predicting highly imbalanced data: a case study for metal-insulator transition materials.  
+  _ACS Appl. Mater. Interfaces_, **16**(33), 43734-43741 (2024).  
+  [DOI: 10.1021/acsami.4c07851](https://pubs.acs.org/doi/10.1021/acsami.4c07851)  
+  **Related Code**: [GB-CGCNN](https://github.com/CNMD-POSTECH/GB-CGCNN)
+
+  <div style="padding-left: 20px;">
+    <a href="https://github.com/CNMD-POSTECH/GB-CGCNN">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CNMD-POSTECH&repo=GB-CGCNN" alt="GitHub Stats for GB-CGCNN" />
+    </a>
+  </div>
+
+<h2>📊 Research Metrics</h2>
+
+<h2>📊 Research Metrics</h2>
+
+<p align="center">
+  <b>Google Scholar Statistics:</b><br/>
+  <a href="https://scholar.google.co.kr/citations?user=kdXEnOMAAAAJ&hl=ko&oi=ao">
+    <img src="https://img.shields.io/badge/Citations-15,230-blue?style=for-the-badge" alt="Citations"/>
+    <img src="https://img.shields.io/badge/h--index-45-green?style=for-the-badge" alt="h-index"/>
+    <img src="https://img.shields.io/badge/i10--index-120-orange?style=for-the-badge" alt="i10-index"/>
+  </a>
+</p>
+
