@@ -36,9 +36,9 @@ We are the **CNMD**, a research group in the Department of Materials Science and
 <p align="center">
   <b>Google Scholar Statistics:</b><br/>
   <a href="https://scholar.google.co.kr/citations?user=kdXEnOMAAAAJ&hl=ko&oi=ao">
-    <img src="https://img.shields.io/badge/Citations-15,230-blue?style=for-the-badge" alt="Citations"/>
-    <img src="https://img.shields.io/badge/h--index-45-green?style=for-the-badge" alt="h-index"/>
-    <img src="https://img.shields.io/badge/i10--index-120-orange?style=for-the-badge" alt="i10-index"/>
+    <img src="https://img.shields.io/badge/Citations-6241-blue?style=for-the-badge" alt="Citations"/>
+    <img src="https://img.shields.io/badge/h--index-42-green?style=for-the-badge" alt="h-index"/>
+    <img src="https://img.shields.io/badge/i10--index-88-orange?style=for-the-badge" alt="i10-index"/>
   </a>
 </p>
 
