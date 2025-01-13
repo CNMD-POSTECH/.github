@@ -33,8 +33,6 @@ We are the **CNMD**, a research group in the Department of Materials Science and
 
 <h2>📊 Research Metrics</h2>
 
-<h2>📊 Research Metrics</h2>
-
 <p align="center">
   <b>Google Scholar Statistics:</b><br/>
   <a href="https://scholar.google.co.kr/citations?user=kdXEnOMAAAAJ&hl=ko&oi=ao">
