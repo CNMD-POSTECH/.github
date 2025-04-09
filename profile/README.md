@@ -30,6 +30,7 @@ A research group in the Department of Materials Science and Engineering at **POS
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CNMD-POSTECH&repo=GB-CGCNN" alt="GitHub Stats for GB-CGCNN" />
     </a>
   </div>
+  
 - Hyeon Kim, Seong Hun Kim, Jaeseon Kim, Eun Ho Kim, Jun Hyeong Gu, Donghwa Lee. 
   A Keyword-based Approach to Analyzing Scientific Research Trends: ReRAM Present and Future.
   _Sci Rep **15**, 12011 (2025).
