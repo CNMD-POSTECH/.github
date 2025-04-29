@@ -23,7 +23,6 @@ A research group in the Department of Materials Science and Engineering at **POS
   Boosting–crystal graph convolutional neural network for predicting highly imbalanced data: a case study for metal-insulator transition materials.  
   _ACS Appl. Mater. Interfaces_, **16**(33), 43734-43741 (2024).  
   [DOI: 10.1021/acsami.4c07851](https://pubs.acs.org/doi/10.1021/acsami.4c07851)  
-  **Related Code**: [GB-CGCNN](https://github.com/CNMD-POSTECH/GB-CGCNN)
 
   <div style="padding-left: 20px;">
     <a href="https://github.com/CNMD-POSTECH/GB-CGCNN">
@@ -35,7 +34,6 @@ A research group in the Department of Materials Science and Engineering at **POS
   A Keyword-based Approach to Analyzing Scientific Research Trends: ReRAM Present and Future.  
   Sci Rep **15**, 12011 (2025).  
   [DOI:10.1038/s41598-025-93423-5](https://www.nature.com/articles/s41598-025-93423-5)  
-  **Related Code**: [KARS](https://github.com/CNMD-POSTECH/KARS).
 
   <div style="padding-left: 20px;">
     <a href="https://github.com/CNMD-POSTECH/KARS">
@@ -46,11 +44,10 @@ A research group in the Department of Materials Science and Engineering at **POS
 - Hyo Gyeong Shin, Eun Ho Kim, Jaeseon Kim, Hyo Kim, Donghwa Lee.  
   Ruddlesden-Popper tolerance factor: An indicator predicting stability of 2D Ruddlesden-Popper Phases.
   _Acta Mater., **292**, 120999 (202506).  
-  [DOI: 10.1016/j.actamat.2025.120999](https://doi.org/10.1016/j.actamat.2025.120999))  
-  **Related Code**: [t_RP](https://github.com/CNMD-POSTECH/t_RP)
+  [DOI: 10.1016/j.actamat.2025.120999](https://doi.org/10.1016/j.actamat.2025.120999)  
 
   <div style="padding-left: 20px;">
-    <a href="https://github.com/CNMD-POSTECH/KARS">
+    <a href="https://github.com/CNMD-POSTECH/t_RP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CNMD-POSTECH&repo=KARS" alt="GitHub Stats for KARS" />
     </a>
   </div>
