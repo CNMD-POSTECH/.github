@@ -43,6 +43,18 @@ A research group in the Department of Materials Science and Engineering at **POS
     </a>
   </div>
 
+- Hyo Gyeong Shin, Eun Ho Kim, Jaeseon Kim, Hyo Kim, Donghwa Lee.  
+  Ruddlesden-Popper tolerance factor: An indicator predicting stability of 2D Ruddlesden-Popper Phases.
+  _Acta Mater., **292**, 120999 (202506).  
+  [DOI: 10.1016/j.actamat.2025.120999](https://doi.org/10.1016/j.actamat.2025.120999))  
+  **Related Code**: [t_RP](https://github.com/CNMD-POSTECH/t_RP)
+
+  <div style="padding-left: 20px;">
+    <a href="https://github.com/CNMD-POSTECH/KARS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CNMD-POSTECH&repo=KARS" alt="GitHub Stats for KARS" />
+    </a>
+  </div>
+
 <h2>📊 Research Metrics</h2>
 
 <p align="center">
