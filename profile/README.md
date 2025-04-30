@@ -47,7 +47,7 @@ A research group in the Department of Materials Science and Engineering at **POS
   [DOI: 10.1016/j.actamat.2025.120999](https://doi.org/10.1016/j.actamat.2025.120999)  
 
   <div style="padding-left: 20px;">
-    <a href="https://github.com/CNMD-POSTECH/t_RP">
+    <a href="https://github.com/CNMD-POSTECH/tRP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CNMD-POSTECH&repo=tRP" alt="GitHub Stats for tRP" />
     </a>
   </div>
